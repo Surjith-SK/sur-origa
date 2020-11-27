@@ -1,0 +1,22 @@
+<div fxFlex="100%" fxLayout="column">
+    <div fxFlex="100%" fxLayout="row" fxLayout.xs="column">
+        <div fxFlex="50%">
+            <suroriga-chart [ngStyle]="{'padding':'20px','border':'solid 1px #fe95fe'}" (selectedChart)="ChartClicked($event)"></suroriga-chart>
+        </div>
+        <div fxFlex="50%" [ngStyle]="{'padding':'20px'}">
+            <div fxFlex="100%" fxLayout="column" fxLayoutGap="20px">
+                <div fxFlex="100%">
+                    <suroriga-percentage [ngStyle]="{'text-align':'center','border':'solid 1px #fe95fe'}">
+                        Showing Percentage for {{label}} <br> <br> {{percentage}} %
+                    </suroriga-percentage>
+                </div>
+                <div fxFlex="100%" id="userData">
+                    <suroriga-userdata [userData]="userData"></suroriga-userdata>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div fxFlex="100%" [ngStyle.xs]="{'margin-top':'100px'}">
+        <suroriga-tabledata [latlong]="filter" (userData)="collectUserData($event)"></suroriga-tabledata>
+    </div>
+</div>

@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+    background-color: grey;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: auto;
+    -moz-osx-font-smoothing: auto;
+}
+
+body {
+    margin: 0;
+    color: white;
+    font-family: Muli, "Helvetica Neue", sans-serif;
+}

@@ -1,0 +1,13 @@
+<div fxFlex="100%" fxLayout="row" fxLayout.xs="column" fxLayoutAlign="space-around center">
+    <div fxFlex="50%" fxFlex.xs="100%" fxLayoutAlign="space-around center">
+        <mat-icon [ngStyle]="{'font-size':'100px','height':'100px','width':'100px'}">perm_identity</mat-icon>
+    </div>
+    <div fxFlex="50%" fxFlex.xs="100%" fxLayout="column" [ngStyle]="{'padding':'20px'}">
+        <span>Name:  &nbsp; {{userData?.name}} </span><br>
+        <span>Username:  &nbsp; {{userData?.username}}</span> <br>
+        <span>Email: &nbsp; {{userData?.email}}</span>
+
+
+    </div>
+    <div fxFlex.xs="100%"></div>
+</div>

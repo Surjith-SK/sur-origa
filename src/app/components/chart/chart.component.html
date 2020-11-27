@@ -1,0 +1,4 @@
+<div fxFlex="100%" [ngStyle]="{'padding':'20px'}" fxLayoutAlign="space-around center">
+    <canvas baseChart [ngStyle.xs]="{'margin-top':'30px'}" [data]="dataToPopulate" [labels]="pieChartLabels" [chartType]="pieChartType" [options]="pieChartOptions" [legend]="pieChartLegend" (chartClick)="chartClicked($event)">
+  </canvas>
+</div>
