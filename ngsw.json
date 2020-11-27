@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1606475252325,
-  "index": "https://surjith-sk.github.io/origa/index.html",
+  "timestamp": 1606479725968,
+  "index": "https://surjith-sk.github.io/sur-origa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://surjith-sk.github.io/origa/favicon.ico",
-        "https://surjith-sk.github.io/origa/index.html",
-        "https://surjith-sk.github.io/origa/main.9cb500ad2d4b911ba98e.js",
-        "https://surjith-sk.github.io/origa/manifest.webmanifest",
-        "https://surjith-sk.github.io/origa/polyfills.35a5ca1855eb057f016a.js",
-        "https://surjith-sk.github.io/origa/runtime.acf0dec4155e77772545.js",
-        "https://surjith-sk.github.io/origa/scripts.53f5e8fdcc55c976781b.js",
-        "https://surjith-sk.github.io/origa/styles.2460711336d5354c5d58.css"
+        "https://surjith-sk.github.io/sur-origa/favicon.ico",
+        "https://surjith-sk.github.io/sur-origa/index.html",
+        "https://surjith-sk.github.io/sur-origa/main.9cb500ad2d4b911ba98e.js",
+        "https://surjith-sk.github.io/sur-origa/manifest.webmanifest",
+        "https://surjith-sk.github.io/sur-origa/polyfills.35a5ca1855eb057f016a.js",
+        "https://surjith-sk.github.io/sur-origa/runtime.acf0dec4155e77772545.js",
+        "https://surjith-sk.github.io/sur-origa/scripts.53f5e8fdcc55c976781b.js",
+        "https://surjith-sk.github.io/sur-origa/styles.2460711336d5354c5d58.css"
       ],
       "patterns": []
     },
@@ -30,14 +30,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://surjith-sk.github.io/origa/assets/icons/icon-128x128.png",
-        "https://surjith-sk.github.io/origa/assets/icons/icon-144x144.png",
-        "https://surjith-sk.github.io/origa/assets/icons/icon-152x152.png",
-        "https://surjith-sk.github.io/origa/assets/icons/icon-192x192.png",
-        "https://surjith-sk.github.io/origa/assets/icons/icon-384x384.png",
-        "https://surjith-sk.github.io/origa/assets/icons/icon-512x512.png",
-        "https://surjith-sk.github.io/origa/assets/icons/icon-72x72.png",
-        "https://surjith-sk.github.io/origa/assets/icons/icon-96x96.png"
+        "https://surjith-sk.github.io/sur-origa/assets/icons/icon-128x128.png",
+        "https://surjith-sk.github.io/sur-origa/assets/icons/icon-144x144.png",
+        "https://surjith-sk.github.io/sur-origa/assets/icons/icon-152x152.png",
+        "https://surjith-sk.github.io/sur-origa/assets/icons/icon-192x192.png",
+        "https://surjith-sk.github.io/sur-origa/assets/icons/icon-384x384.png",
+        "https://surjith-sk.github.io/sur-origa/assets/icons/icon-512x512.png",
+        "https://surjith-sk.github.io/sur-origa/assets/icons/icon-72x72.png",
+        "https://surjith-sk.github.io/sur-origa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -80,22 +80,22 @@
     }
   ],
   "hashTable": {
-    "https://surjith-sk.github.io/origa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://surjith-sk.github.io/origa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://surjith-sk.github.io/origa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://surjith-sk.github.io/origa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://surjith-sk.github.io/origa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://surjith-sk.github.io/origa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://surjith-sk.github.io/origa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://surjith-sk.github.io/origa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://surjith-sk.github.io/origa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://surjith-sk.github.io/origa/index.html": "5b6301ed55d3363ce83b7276dc153b7d81512cf9",
-    "https://surjith-sk.github.io/origa/main.9cb500ad2d4b911ba98e.js": "d082c8acc4ffe75e0244224496ff6fb7edef9634",
-    "https://surjith-sk.github.io/origa/manifest.webmanifest": "80cd5a6e9650478d3b6513c12f8ec7a8c086c727",
-    "https://surjith-sk.github.io/origa/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
-    "https://surjith-sk.github.io/origa/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://surjith-sk.github.io/origa/scripts.53f5e8fdcc55c976781b.js": "4af756753a3196441e364f5b5b993e9c9c46d26b",
-    "https://surjith-sk.github.io/origa/styles.2460711336d5354c5d58.css": "25f17cf6eee3367463f0c2b45c610d2ccec68437"
+    "https://surjith-sk.github.io/sur-origa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://surjith-sk.github.io/sur-origa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://surjith-sk.github.io/sur-origa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://surjith-sk.github.io/sur-origa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://surjith-sk.github.io/sur-origa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://surjith-sk.github.io/sur-origa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://surjith-sk.github.io/sur-origa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://surjith-sk.github.io/sur-origa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://surjith-sk.github.io/sur-origa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://surjith-sk.github.io/sur-origa/index.html": "4b1a5f8ef391b457c50fd521a9802a98c4b476bc",
+    "https://surjith-sk.github.io/sur-origa/main.9cb500ad2d4b911ba98e.js": "d082c8acc4ffe75e0244224496ff6fb7edef9634",
+    "https://surjith-sk.github.io/sur-origa/manifest.webmanifest": "80cd5a6e9650478d3b6513c12f8ec7a8c086c727",
+    "https://surjith-sk.github.io/sur-origa/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "https://surjith-sk.github.io/sur-origa/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://surjith-sk.github.io/sur-origa/scripts.53f5e8fdcc55c976781b.js": "4af756753a3196441e364f5b5b993e9c9c46d26b",
+    "https://surjith-sk.github.io/sur-origa/styles.2460711336d5354c5d58.css": "25f17cf6eee3367463f0c2b45c610d2ccec68437"
   },
   "navigationUrls": [
     {
