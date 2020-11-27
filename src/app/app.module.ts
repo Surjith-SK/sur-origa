@@ -39,7 +39,7 @@ import {MatSnackBarModule} from '@angular/material/snack-bar';
     OrigaComponent
   ],
   imports: [
-    BrowserModule,
+    BrowserModule.withServerTransition({ appId: 'serverApp' }),
     AppRoutingModule,
     BrowserAnimationsModule,
     HttpClientModule,
