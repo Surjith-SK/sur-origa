@@ -19,6 +19,7 @@ export class ChartComponent implements OnInit, OnDestroy {
   dataToPopulate:number[];
   public pieChartOptions: ChartOptions = {
     responsive: true,
+    maintainAspectRatio:false,
     legend: {
       display: true,
       labels: {
@@ -28,7 +29,7 @@ export class ChartComponent implements OnInit, OnDestroy {
     tooltips :{
       backgroundColor:'white',
       callbacks:{
-        labelTextColor: function(tooltipItem, chart) { 
+        labelTextColor: function() { 
            return "black";     
         },
        

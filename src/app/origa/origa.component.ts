@@ -2,7 +2,7 @@ import { ViewportScroller } from '@angular/common';
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import {  Subject } from 'rxjs';
-import { debounceTime, map, takeUntil } from 'rxjs/operators';
+import {  map, takeUntil } from 'rxjs/operators';
 import { FakeService } from '../services/fake.service';
 
 @Component({
@@ -33,7 +33,7 @@ export class OrigaComponent implements OnInit, OnDestroy {
     * OnInit
     */
   ngOnInit(): void {
-    this.fakeService.ApiResponse.pipe(debounceTime(500),takeUntil(this._unsubscribeAll),map(res=>{
+    this.fakeService.ApiResponse.pipe(takeUntil(this._unsubscribeAll),map(res=>{
       return res;
     })).subscribe(res=>{
       this.AllData = res; 
